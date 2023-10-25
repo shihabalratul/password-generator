@@ -1,6 +1,6 @@
 # Password Generator
 
-This project generates password based on user need. 
+This is a simple project that generates password based on user need. 
 
 This project is only for revision and practice of react js. This is totally developed with reactjs and javascript with the help of this tutorial: https://youtu.be/Lt4vy8hfc-s?feature=shared
 
